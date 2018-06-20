@@ -1,14 +1,11 @@
-# LSD Animation (2007)
+# Cells Multiplication - 3D Max (2005)
 by Francisco Mat
-Made in 2007
+Made in 2005
 
-![LSD Animation - 2007](2018-06-20-lsd-animation.png)
+![Cells Multiplication - 3D Max](2018-06-20-cells.png)
 
+Unfinished educational animation showing cells multiplication.
 
-Never used animation because of it "high content"
-
-The original version has an name below bicycle man
-
-* Made in Windows XP + Flash MX.
+* Made in Windows XP + 3D Max.
 
 Francisco Matelli Matulovic - 2005 - 2018
